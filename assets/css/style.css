@@ -1,0 +1,8 @@
+span.renda_familia {
+    padding: 0.5em;
+    color: white;
+    border-radius: 10px;
+    font-weight: bold;
+    width: 100px;
+    display: flex;
+}
