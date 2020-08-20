@@ -1,2 +1,11 @@
 # Tempus
-O objetivo do projeto é desenvolver um sistema de administração de clientes. Nos formulários, utilize as validações de input do HTML 5 (como required, min, max, maxlength, type, etc) conforme as regras descritas abaixo. Você pode utilizar bibliotecas de terceiros para Javascript e CSS, como jQuery e Bootstrap. O aspecto visual também será avaliado, ou seja, o sistema deve ter uma interface bonita e pronta para uso. O sistema deve funcionar bem tanto em celulares quanto em computadores. O sistema deve gravar e consultar de uma base de dados relacional de sua preferência.
+O objetivo do projeto é desenvolver um sistema de administração de clientes. 
+
+## Linguagem
+O projeto foi criado em linguagem PHP
+
+## Banco de Dados
+O Banco de dados utilizado foi o MySQL
+
+## Obersevações
+Todo o projeto foi criado usando o sistema pronto do XAMPP, para maior agilidade.
