@@ -6,7 +6,8 @@ O projeto foi criado em linguagem PHP
 
 ## Banco de Dados
 O Banco de dados utilizado foi o MySQL
-As informaões como: Database, Table, Rows (Inserts) estão no arquivo - ###db_clients.sql###
+As informaões como: Database, Table, Rows (Inserts) estão no arquivo:
+### db_clients.sql ###
 
 ## Obersevações
 Todo o projeto foi criado usando o sistema pronto do XAMPP, para maior agilidade.
